@@ -15,7 +15,7 @@ terraform {
     organization = "Chisox-Terraform-Demos"
 
     workspaces {
-      name = "demo-github-actions"
+      name = "chisox-demo-github-actions"
     }
   }
 }
